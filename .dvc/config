@@ -1,4 +1,6 @@
 [core]
-    remote = mlops_dvc_storage
+    remote = 0401
 ['remote "mlops_dvc_storage"']
     url = gdrive://https://drive.google.com/drive/u/0/folders/18TA91c2oyHP6UxhegJufYpkfS3Z595dS
+['remote "0401"']
+    url = gdrive://18TA91c2oyHP6UxhegJufYpkfS3Z595dS
